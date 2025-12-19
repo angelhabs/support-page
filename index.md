@@ -24,20 +24,22 @@ A: Rest days allow you to take a break from a habit without losing your streak. 
 ### Subscriptions & Billing
 
 **Q: How does the free trial work?**  
-A: New users get a 7-day free trial. You can cancel anytime before the trial ends to avoid being charged. We'll send you reminders 2 days and 1 day before your trial ends.
+A: New users get a 7-day free trial. You can cancel anytime, but to avoid being charged, you must cancel at least 24 hours before your trial ends. We'll send you a reminder 2 days before your trial ends.
 
 **Q: How do I cancel my subscription?**  
-A: You can manage or cancel your subscription through your Apple App Store account settings:
+A: You can cancel your subscription anytime through your Apple ID account settings or through the "Manage Subscription" page in the app menu. To avoid being charged for the next billing period, cancel at least 24 hours before your current period ends. Here's how:
 1. Open Settings on your iPhone
 2. Tap your name at the top
 3. Tap "Subscriptions"
 4. Find "Angel Habs" and manage your subscription
 
+Alternatively, you can access subscription management through Menu → Manage Subscription in the app.
+
 **Q: Can I get a refund?**  
 A: Refunds are handled by Apple. Please contact Apple Support for refund requests. We cannot process refunds directly.
 
 **Q: What happens if I cancel my subscription?**  
-A: You'll continue to have access until the end of your current billing period. After that, you'll need to resubscribe to continue using the app.
+A: Your subscription will auto-renew unless cancelled. If you cancel, you'll continue to have access until the end of your current billing period. After that, you'll need to resubscribe to continue using the app. Cancellation takes effect at the end of the current billing period.
 
 ### Features & Functionality
 
@@ -50,7 +52,10 @@ A: Create a habit with "meditation" or "affirmation" in the name, then tap on it
 **Q: Can I export my data?**  
 A: Yes! Go to Menu → Privacy & Data Management → Export Data. You'll receive a JSON file with all your habits, progress, and challenges.
 
-**Q: How do I delete my account and data?**  
+**Q: How do I reset my name and email?**  
+A: Go to Menu → Reset name & email. This will clear your personalization information while preserving all your local habit data. Note: Angel Habs does not create traditional user accounts - all your habit data is stored locally on your device.
+
+**Q: How do I delete all my data?**  
 A: Go to Menu → Privacy & Data Management → Delete All Data. This will permanently delete all your habits, challenges, and progress. This action cannot be undone.
 
 ### Technical Issues
@@ -62,7 +67,7 @@ A: Make sure you've granted notification permissions when prompted. You can chec
 A: Try force-closing the app and reopening it. If the issue persists, please email us with details about when it happens.
 
 **Q: My progress isn't saving**  
-A: Make sure you're connected to the internet when first setting up. After that, all data is stored locally on your device.
+A: Make sure you're connected to WiFi/internet when first entering your name and email (required for account setup). After that, all habit data is stored locally on your device and works offline.
 
 **Q: Can I use the app offline?**  
 A: Yes! Once you've set up your habits, the app works completely offline. Your data is stored locally on your device.
@@ -73,10 +78,13 @@ A: Yes! Once you've set up your habits, the app works completely offline. Your d
 A: Yes. Your habit data is stored locally on your device using Core Data. We use industry-standard encryption and security practices.
 
 **Q: What data do you collect?**  
-A: We collect minimal data necessary to provide the service. See our [Privacy Policy](https://angelhabs.github.io/privacy-policy/) for full details.
+A: We collect your name and email address to personalize your experience. We may also use your email for marketing communications (you can opt out anytime). We collect habit names for analytics purposes only (not linked to your account). All your habit progress and tracking data is stored locally on your device. See our [Privacy Policy](https://angelhabs.github.io/privacy-policy/) for full details.
 
 **Q: Do you sell my data?**  
-A: No, we never sell your personal data. Your privacy is important to us.
+A: No, we never sell your personal data. We use all collected information solely for our own internal purposes (analytics, product improvement, personalization, and marketing communications). Your privacy is important to us.
+
+**Q: How do I opt out of marketing emails?**  
+A: You can opt out anytime by clicking the "unsubscribe" link in any marketing email we send you, or by contacting us at angelhabsapp@gmail.com with "Unsubscribe" in the subject line.
 
 ## 🐛 Report a Bug
 
