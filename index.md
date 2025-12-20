@@ -13,7 +13,7 @@ We typically respond within 24-48 hours. For urgent issues, please include "URGE
 ### Getting Started
 
 **Q: How do I create my first habit?**  
-A: Tap the "+" button in the top right corner of the main screen. Follow the guided flow to set up your habit name, goal, days, and reminders.
+A: Tap the "+" button in the bottom right corner of the main screen. Follow the guided flow to set up your habit name, goal, days, and reminders.
 
 **Q: How do I track my progress?**  
 A: Swipe right on any habit in your list to mark progress. You can also view your weekly progress rings and detailed analytics in the Analytics tab.
@@ -29,11 +29,11 @@ A: New users get a 7-day free trial. You can cancel anytime, but to avoid being 
 **Q: How do I cancel my subscription?**  
 A: You can cancel your subscription anytime through your Apple ID account settings or through the "Manage Subscription" page in the app menu. To avoid being charged for the next billing period, cancel at least 24 hours before your current period ends. Here's how:
 1. Open Settings on your iPhone
-2. Tap your name at the top
+2. Tap your name at the top or Apple ID
 3. Tap "Subscriptions"
 4. Find "Angel Habs" and manage your subscription
 
-Alternatively, you can access subscription management through Menu → Manage Subscription in the app.
+Alternatively, you can access subscription management through Menu → Manage Subscription in the app. You cannot cancel through the Angel Habs app, this must be done through the Apple App Subscriptions Manager. 
 
 **Q: Can I get a refund?**  
 A: Refunds are handled by Apple. Please contact Apple Support for refund requests. We cannot process refunds directly.
