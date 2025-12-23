@@ -13,7 +13,7 @@ We typically respond within 24-48 hours. For urgent issues, please include "URGE
 ### Getting Started
 
 **Q: How do I create my first habit?**  
-A: Tap the "+" button in the bottom right corner of the main screen. Follow the guided flow to set up your habit name, goal, days, and reminders.
+A: Tap the "+" button in the top right corner of the main screen. Follow the guided flow to set up your habit name, goal, days, and reminders.
 
 **Q: How do I track my progress?**  
 A: Swipe right on any habit in your list to mark progress. You can also view your weekly progress rings and detailed analytics in the Analytics tab.
@@ -29,11 +29,11 @@ A: New users get a 7-day free trial. You can cancel anytime, but to avoid being 
 **Q: How do I cancel my subscription?**  
 A: You can cancel your subscription anytime through your Apple ID account settings or through the "Manage Subscription" page in the app menu. To avoid being charged for the next billing period, cancel at least 24 hours before your current period ends. Here's how:
 1. Open Settings on your iPhone
-2. Tap your name at the top or Apple ID
+2. Tap your name at the top
 3. Tap "Subscriptions"
 4. Find "Angel Habs" and manage your subscription
 
-Alternatively, you can access subscription management through Menu → Manage Subscription in the app. You cannot cancel through the Angel Habs app, this must be done through the Apple App Subscriptions Manager. 
+Alternatively, you can access subscription management through Menu → Manage Subscription in the app.
 
 **Q: Can I get a refund?**  
 A: Refunds are handled by Apple. Please contact Apple Support for refund requests. We cannot process refunds directly.
@@ -44,7 +44,7 @@ A: Your subscription will auto-renew unless cancelled. If you cancel, you'll con
 ### Features & Functionality
 
 **Q: What are challenges?**  
-A: Challenges help you stay committed with a community of like-minded angels! Join preset challenges or create custom challenges with your habits.
+A: Challenges help you stay committed to your goals! Join preset challenges or create custom challenges with your habits.
 
 **Q: How do I access meditations and affirmations?**  
 A: Create a habit with "meditation" or "affirmation" in the name, then tap on it to access our special features.
@@ -70,7 +70,7 @@ A: Try force-closing the app and reopening it. If the issue persists, please ema
 A: Make sure you're connected to WiFi/internet when first entering your name and email (required for account setup). After that, all habit data is stored locally on your device and works offline.
 
 **Q: Can I use the app offline?**  
-A: Yes! Once you've set up your habits, the app works completely offline. Your data is stored locally on your device.
+A: Yes! Once you've set up your habits, the app works offline (except for playing meditations, this requires wifi connection). Your data is stored locally on your device. 
 
 ### Privacy & Security
 
@@ -112,7 +112,7 @@ Have an idea for a new feature? We'd love to hear it! Email us at **angelhabsapp
 
 ## 🙏 Thank You
 
-Thank you for being part of the Angel Habs community. We're here to support you on your journey to building the life you said you would!
+Thank you for using Angel Habs! We're here to support you on your journey to building the life you said you would!
 
 ---
 
